@@ -1,0 +1,21 @@
+Get the coordinates of th eplaying area:
+
+top left corner:
+
+x = 317
+y = 292
+
+top right corner:
+
+x = 1151
+y = 292
+
+bottom left corner:
+
+x = 317
+y = 917 
+
+bottom right corner:
+
+x = 1151
+y = 917
